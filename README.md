@@ -1,4 +1,3 @@
-# Germany-EV-Infrastructure-Forecasting-Strategy-Python-
 # Germany EV Infrastructure: 2027 Strategic Forecast 
 
 Summary
